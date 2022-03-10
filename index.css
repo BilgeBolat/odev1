@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(209, 125, 153);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#tarıf{
+    position:absolute ;
+    top: 30%;
+    left:30%;
+}
+.malzemeler{
+    border: 1px solid plum;
+    background-color: plum;
+    border-radius: 10px ;
+   
+}
+.uzeri{
+    border: 1px solid plum;
+    background-color: plum;
+    border-radius: 10px;
+    width: 40%;
+    
+}
